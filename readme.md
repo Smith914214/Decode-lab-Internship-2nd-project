@@ -11,7 +11,7 @@ Expense Tracker is a simple Python application that helps users record their exp
 * Easy-to-use command-line interface
 * Beginner-friendly Python project
 
-## 💻 Code
+##  Code
 
 ```python
 total = 0
