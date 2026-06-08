@@ -1,0 +1,11 @@
+# Expense Tracker
+
+total = 0
+
+n = int(input("Enter number of expenses: "))
+
+for i in range(n):
+    expense = float(input(f"Enter expense {i+1}: "))
+    total = total + expense
+
+print("\nTotal Spent =", total)
